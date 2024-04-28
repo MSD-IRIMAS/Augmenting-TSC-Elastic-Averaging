@@ -73,11 +73,11 @@ On SonyAIBORobotSurface1 using MBA (Holder et al. 2023)
 If you use this work, please make sure to cite this code repository as follows:
 ```
 @misc{Ismail-Fawaz2023weighted-ba
-author = {Ismail-Fawaz, Ali and Devanne, Maxime and Berretti, Stefano and Weber, Jonathan and Forestier, Germain},
-title = {Weighted Elastic Barycetner Averaging to Augment Time Series Data},
-year = {2024},
-journal = {GitHub repository},
-url = {https://github.com/MSD-IRIMAS/Augmenting-TSC-Elastic-Averaging}
+    author = {Ismail-Fawaz, Ali and Devanne, Maxime and Berretti, Stefano and Weber, Jonathan and Forestier, Germain},
+    title = {Weighted Elastic Barycetner Averaging to Augment Time Series Data},
+    year = {2024},
+    journal = {GitHub repository},
+    url = {https://github.com/MSD-IRIMAS/Augmenting-TSC-Elastic-Averaging}
 }
 ```
 And depending on which version of weighted BA you use, please make sure you cite the corresponding paper from the below list of references.
