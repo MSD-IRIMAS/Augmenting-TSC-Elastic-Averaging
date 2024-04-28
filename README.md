@@ -1,6 +1,6 @@
 # Augmenting Time Series Data with Elastic Averaging Methods
 
-author: [Ali Ismail-Fawaz](hadifawaz1999.github.io), [@hadifawaz1999](https://github.com/hadifawaz1999)
+author: [Ali Ismail-Fawaz](https://hadifawaz1999.github.io), [@hadifawaz1999](https://github.com/hadifawaz1999)
 
 This repository contains a python code that supports the weighted Barycenter Average method for time series data proposed by [Forestier et al. 2017 [1] " Generating synthetic time series to augment sparse datasets" In IEEE International Conference on Data Mining (ICDM)](https://doi.org/10.1109/ICDM.2017.106). Their original proposal was to use Dynamic Time Warping Barycenter Average (DBA) [Petitjean et al. 2011](https://www.sciencedirect.com/science/article/abs/pii/S003132031000453X) [2] to generate synthetic data in order to enhance supervised learning for the task of Time Series Classification.
 
