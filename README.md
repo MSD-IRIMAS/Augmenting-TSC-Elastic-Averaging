@@ -52,13 +52,13 @@ Results will be stored in `exps/experiment-name/`, the hydra directory for exper
 
 ## Examples
 
-On ECG200 using dBA (Forestier et al. 2017)
+On ECG200 using DBA (Forestier et al. 2017)
 
 <p align="center">
 <img src="imgs/ecg200-dba.png" alt="bnm" width="50%"/>
 </p>
 
-On ItalyPowerDemand using DBA (Ismail-Fawaz et al. 2023)
+On ItalyPowerDemand using shapeDBA (Ismail-Fawaz et al. 2023)
 <p align="center">
 <img src="imgs/italyppowerdemand-shape-dba.png" alt="bnm" width="50%"/>
 </p>
