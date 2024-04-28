@@ -68,9 +68,27 @@ On SonyAIBORobotSurface1 using MBA (Holder et al. 2023)
 <img src="imgs/SonyAIBORobotSurface1-mba.png" alt="bnm" width="50%"/>
 </p>
 
-## Reference
+## Citing this work
+
+If you use this work, please make sure to cite this code repository as follows:
+```
+@misc{Ismail-Fawaz2023weighted-ba
+author = {Ismail-Fawaz, Ali and Devanne, Maxime and Berretti, Stefano and Weber, Jonathan and Forestier, Germain},
+title = {Weighted Elastic Barycetner Averaging to Augment Time Series Data},
+year = {2024},
+journal = {GitHub repository},
+url = {https://github.com/MSD-IRIMAS/Augmenting-TSC-Elastic-Averaging}
+}
+```
+And depending on which version of weighted BA you use, please make sure you cite the corresponding paper from the below list of references.
+
+## References
 
 [1] Forestier, Germain, et al. "Generating synthetic time series to augment sparse datasets." 2017 IEEE international conference on data mining (ICDM). IEEE, 2017.<br>
 [2] Petitjean, François, Alain Ketterlin, and Pierre Gançarski. "A global averaging method for dynamic time warping, with applications to clustering." Pattern recognition 44.3 (2011): 678-693.<br>
 [3] Ismail-Fawaz, Ali, et al. "ShapeDBA: Generating Effective Time Series Prototypes Using ShapeDTW Barycenter Averaging." International Workshop on Advanced Analytics and Learning on Temporal Data. Cham: Springer Nature Switzerland, 2023.<br>
 [4] Holder, Christopher, David Guijo-Rubio, and Anthony Bagnall. "Barycentre averaging for the move-split-merge time series distance measure." 15th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management. 2023.
+
+## Acknowledgments
+
+We would like to thank the authors of the original work of DBA Petitjean et al. 2011 and weighted DBA Forestier et al. 2017. We would also like to thank the Aeon time series machine learning python toolkit for their fast implementation of BA and elastic distances. Finally we would like to thank the authors of the UCR archive for making the Time Series Classification dataset publicly available.
