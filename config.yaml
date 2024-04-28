@@ -1,0 +1,26 @@
+hydra :
+  job :
+    name : augmentation-BA
+  run :
+    dir : exps/${hydra.job.name}
+
+dataset : "ECG200"
+random_state : null
+runs: 5
+distance : "msm"
+distance_params :
+  window: null # for all warping based distances
+  p : 2.0 # for the minkowski, erp, wddtw, wdtw
+  w : null # for the minkowski distance
+  itakura_max_slope: null # for all warping based distances
+  descriptor : "identity" # for shape_dtw
+  reach : 15 # for shape_dtw
+  g : 0.05 # for wdtw
+  epsilon : 1.0 # for lcss, edr
+  g_arr : null # for erp
+  nu : 0.001 # for twe
+  lmbda : 1.0 # for twe
+  independent : True # for msm
+  c : 1.0 # for msm
+  warp_penalty : 1.0 # for adtw
+  standardize : True # for sbd
