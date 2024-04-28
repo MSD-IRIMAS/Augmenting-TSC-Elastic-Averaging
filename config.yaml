@@ -7,7 +7,7 @@ hydra :
 dataset : "ECG200"
 random_state : null
 runs: 5
-distance : "msm"
+distance : "shape_dtw"
 distance_params :
   window: null # for all warping based distances
   p : 2.0 # for the minkowski, erp, wddtw, wdtw
