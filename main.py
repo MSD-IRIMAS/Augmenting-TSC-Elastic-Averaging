@@ -97,6 +97,8 @@ def main(args: DictConfig):
             + str(_run)
             + ".pdf"
         )
+        
+        plt.cla()
 
     df.loc[len(df)] = {
         "distance": args.distance,
