@@ -78,7 +78,7 @@ If you use this work, please make sure to cite this code repository as follows:
     year = {2024},
     publisher = {Github},
     journal = {GitHub repository},
-    url = {https://github.com/MSD-IRIMAS/Augmenting-TSC-Elastic-Averaging}
+    howpublished = {\url{https://github.com/MSD-IRIMAS/Augmenting-TSC-Elastic-Averaging}}
 }
 ```
 
