@@ -91,4 +91,5 @@ If you use this work, please make sure to cite this code repository as follows:
 
 ## Acknowledgments
 
+This work was supported by the ANR DELEGATION project (grant ANR-21-CE23-0014) of the French Agence Nationale de la Recherche.
 We would like to thank the authors of the original work of DBA Petitjean et al. 2011 and weighted DBA Forestier et al. 2017. We would also like to thank the Aeon time series machine learning python toolkit for their fast implementation of BA and elastic distances. Finally we would like to thank the authors of the UCR archive for making the Time Series Classification dataset publicly available.
