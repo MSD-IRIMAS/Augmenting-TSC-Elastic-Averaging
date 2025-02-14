@@ -14,8 +14,7 @@ In what follows, we list the required information to be able to run the code.
 
 This work requires a python version `>=3.10.12`
 
-In order to use the version of aeon that made this work possible, please install the development version of aeon as follows:<br>
-`pip install -U git+https://github.com/aeon-toolkit/aeon.git@main`
+In order to use the version of aeon that made this work possible, please install version 0.11.1 of the aeon toolkit
 
 The following packages are installed by default with aeon: `numpy`, `scikit-learn`, `pandas`.
 
