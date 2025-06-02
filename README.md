@@ -71,7 +71,7 @@ On SonyAIBORobotSurface1 using MBA (Holder et al. 2023)
 
 If you use this work, please make sure to cite this code repository as follows:
 ```
-@misc{Ismail-Fawaz2023weighted-ba
+@misc{Ismail-Fawaz2023weighted-ba,
     author = {Ismail-Fawaz, Ali and Devanne, Maxime and Berretti, Stefano and Weber, Jonathan and Forestier, Germain},
     title = {Weighted Elastic Barycetner Averaging to Augment Time Series Data},
     year = {2024},
